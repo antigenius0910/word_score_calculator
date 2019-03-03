@@ -11,6 +11,8 @@ Knowledge, Hard Work, Money...whatever. They say only Attitude is 100%
 
 How to use word_score_calculator
 
+如何使用英文字戰力換算器
+
 Argument:
 
 ```python
