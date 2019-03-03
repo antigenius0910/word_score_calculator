@@ -8,7 +8,7 @@ How to use word_score_calculator
 Argument:
 
 ```python
-$python3 word_score_calculator.py $SCORE
+python3 word_score_calculator.py SCORE_YOU_WANT
 ```
 
 Read and parse `readme.md`:
