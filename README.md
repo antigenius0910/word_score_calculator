@@ -15,9 +15,10 @@ Argument:
 
 ```python
 python3 word_score_calculator.py SCORE_YOU_WANT
+python3 word_score_calculator.py 你想查詢的分數
 ```
 
-Result for `python3 word_score_calculator.py 100`:
+Result for `python3 word_score_calculator.py 100`: (一百分的結果)
 
 ```python
 abactinally = 100
@@ -42,12 +43,12 @@ acylation = 100
 ...
 ```
 
-Result for `python3 word_score_calculator.py 300`: 
+Result for `python3 word_score_calculator.py 300`: (三百分的結果)
 
 ```python
 humuhumunukunukuapuaa = 300
 ```
-(It's the official Hawaii state fish which look like this)
+(It's the official Hawaii state fish which look like this)(三百分是夏威夷的州魚長得像這樣)
 
 
 ![h2b9180cd](https://user-images.githubusercontent.com/5915590/53703031-d2c40900-3dd2-11e9-92cb-2a7c06c085b8.jpeg)
