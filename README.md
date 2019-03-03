@@ -36,3 +36,9 @@ acylation = 100
 ...
 ```
 
+Result for `python3 word_score_calculator.py 300`: 
+
+```python
+humuhumunukunukuapuaa = 300
+```
+(It's the official Hawaii state fish)
