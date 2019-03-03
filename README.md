@@ -3,7 +3,9 @@ Knowledge, Hard Work, Money...whatever. They say only Attitude is 100%
 
 
 剛才看到城武先生回的文。熱情奔放，創意無限
-熊熊點起小妹心中的一團火 我從来没有放棄，成为一位尾大developer的理想啊啊啊！
+
+
+熊熊燃起小妹心中的一團火 我從来没有放棄，成为一位尾大developer的理想啊啊啊！
 
 ## Usage
 
