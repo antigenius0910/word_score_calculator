@@ -11,12 +11,28 @@ Argument:
 python3 word_score_calculator.py SCORE_YOU_WANT
 ```
 
-Read and parse `readme.md`:
+Result for `python3 word_score_calculator.py 100`:
 
-```javascript
-var readme = fs.readFileSync('readme.md', 'utf-8')
-var ast = remark()
-  .use(usage)
-  .parse(readme)
+```python
+abactinally = 100
+abatements = 100
+abbreviatable = 100
+abettors = 100
+abomasusi = 100
+abreption = 100
+abrogative = 100
+absconders = 100
+absinthol = 100
+absorbancy = 100
+acceptavit = 100
+acceptors = 100
+acclimation = 100
+accounter = 100
+accumulate = 100
+acenaphthene = 100
+achronism = 100
+achroous = 100
+acylation = 100
+...
 ```
 
