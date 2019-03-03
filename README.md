@@ -1,35 +1,14 @@
 # word_score_calculator
 Knowledge, Hard Work, Money...whatever. They say only Attitude is 100%
 
-# remark-usage
-
-[![Build][build-badge]][build]
-[![Coverage][coverage-badge]][coverage]
-[![Downloads][downloads-badge]][downloads]
-[![Chat][chat-badge]][chat]
-[![Sponsors][sponsors-badge]][collective]
-[![Backers][backers-badge]][collective]
-
-Add a [usage][] example to a README with [**remark**][remark].
-
-## Installation
-
-[npm][]:
-
-```bash
-npm install remark-usage
-```
-
 ## Usage
 
-This section is rendered by this module from [example.js][example-js].
+How to use word_score_calculator
 
-Dependencies:
+Argument:
 
-```javascript
-var fs = require('fs')
-var remark = require('remark')
-var usage = require('remark-usage') // This is changed from `./index.js` to `remark-usage`
+```python
+$python3 word_score_calculator.py $SCORE
 ```
 
 Read and parse `readme.md`:
