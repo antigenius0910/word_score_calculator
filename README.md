@@ -41,4 +41,5 @@ Result for `python3 word_score_calculator.py 300`:
 ```python
 humuhumunukunukuapuaa = 300
 ```
-(It's the official Hawaii state fish)
+(It's the official Hawaii state fish which look like this)
+![h2b9180cd](https://user-images.githubusercontent.com/5915590/53703031-d2c40900-3dd2-11e9-92cb-2a7c06c085b8.jpeg)
