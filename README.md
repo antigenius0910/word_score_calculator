@@ -50,7 +50,7 @@ humuhumunukunukuapuaa = 300
 ```
 (It's the official Hawaii state fish which look like this)
 
-(三百分是夏威夷的州魚長得像這樣,再努力也贏不了他,因為他有你三倍的熊庹！！)
+(三百分是夏威夷的州魚長得像這樣,他總共有你三倍的熊庹！！)
 
 
 ![h2b9180cd](https://user-images.githubusercontent.com/5915590/53703031-d2c40900-3dd2-11e9-92cb-2a7c06c085b8.jpeg)
