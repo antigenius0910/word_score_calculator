@@ -11,7 +11,8 @@ def letter_to_int(letter):
 import sys
 
 score = []
-word = list(sys.argv[1])
+user_word = sys.argv[1].lower()
+word = list(user_word)
 
 print(list(word))
 
